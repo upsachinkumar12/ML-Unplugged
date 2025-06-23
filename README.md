@@ -28,9 +28,3 @@ This repository contains the content and materials used for a beginner-level ses
 - Ridge Regression (L2 Regularization)
 - Lasso Regression (L1 Regularization)
 - Elastic Net Regression
----
-
-## 🎯 Objective of the Project
-
-- To explain the basics of ML in an interactive and understandable way.
-- To give learners the confidence to explore ML topics further.
