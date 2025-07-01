@@ -1,4 +1,4 @@
-# Introduction to Machine Learning
+# ML Unplugged
 
 This repository contains the content and materials used for a beginner-level session on **Machine Learning (ML)**. The goal was to provide students a conceptual understanding of what ML is, its categories, and real-world applications.
 
